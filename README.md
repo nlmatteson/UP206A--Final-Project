@@ -1,20 +1,15 @@
 # UP206A--Final-Project
 
-## Possible relationship to explore
-1. Vulnerablity 
+# Project Proposal
 
-Variables:
-* Percentage of urbanization
-* density of industries (or similar figure)
-* Percentage of agricultural land, forests, waterbodies
-* Air Qality
+## Introduction
 
+## Why It's Important, Why it matters, & What is at stake:
 
-3. Environmental quality and health
+## Spacial Scope
 
-Variables: 
-* Health expenditure
-* air quality
-* (other possibilities water availablity/quality)
+## Our Current Data
 
+## Intended Analysis and Visualizations
 
+## Conclusion
