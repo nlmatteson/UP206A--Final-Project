@@ -1,15 +1,7 @@
 # UP206A--Final-Project
 
-# Project Proposal
+## Impact of BART's TOD Projects on housing accessibility and affordability
 
-## Introduction
+Group: TOD Housing
 
-## Why It's Important, Why it matters, & What is at stake:
-
-## Spacial Scope
-
-## Our Current Data
-
-## Intended Analysis and Visualizations
-
-## Conclusion
+Nicole Matteson and Chaithra Ananthakrishna Navada
