@@ -1,5 +1,9 @@
 # **Project Proposal**
 
+## Title
+
+Impact of BART's TOD Projects on housing accessibility and affordability
+
 ## Introduction and Research Question
 	
 For our project, we hope to analyze how Bay Area Rapid Transit’s (BART) completed Transit-Oriented Development (TOD) projects have impacted the nearby communities, specifically considering the equity implications. We plan to research housing availability/affordability has changed since the projects completed.
