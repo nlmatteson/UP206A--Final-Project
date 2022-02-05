@@ -14,9 +14,7 @@ We will use the following datasets. Data is downloaded at census tract level for
 * 2019 and 2011 ethnicity data - ACS - downloaded and cleaned.
 * Data set with ToD stops - from gis.data.ca.gov - downloaded, need to isolate relevant stops. 
 * 2019 and 2011 median income data - ACS - yet to download.
-* 2019 and 2011 housing data - ACS - rent burden
-
-
+* 2019 and 2011 housing data - ACS - gross rent as a percentage of household income. Need to ensure suitability. 
 ## Concerns
 Minor concerns:
 1. The quarter system is moving so fast!
