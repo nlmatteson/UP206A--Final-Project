@@ -1,6 +1,6 @@
 #### **Project Proposal**
 
-# Impact of BART's TOD Projects on Housing Accessibility and Affordability
+# Understanding the Equity Impacts of BART's TOD Projects
 
 ## Introduction and Research Question
 	
