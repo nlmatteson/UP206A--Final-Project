@@ -59,14 +59,15 @@ Data on demographics and employment/income will be used along with housing data 
 
 ## 2011 Census Tract Ethicity Data from Data.census.org
 
-2011: 
+2011: https://data.census.gov/cedsci/table?q=B03002%20&g=0500000US06001%241400000&tid=ACSDT5Y2011.B03002 
 
 
 ## Intended analysis and Visualizations
 
-The project will establish housing affordability and accessibility indexes for periods before and after the TOD project(s) is completed. Affordability will be derived from information on housing costs, and rents. Accessibility will be calculated based on population characteristics including demographics, and income.
+The project will establish housing affordability and accessibility indexes for periods before and after the TOD project(s) is completed. Affordability will be derived from information on rents burden. Accessibility will be calculated as an index based on population characteristics including demographics, and income.
 
-Primary product of the project is a visualization of changes to the affordability and accessibility indexes in the pre and post-project periods. Inclusion of neighboring regions in the project should enable us to track any patterns of gentrification due to the BART TOP Projects. 
+Primary product of the project is a visualization of changes to the affordability and accessibility indexes in the pre and post-project periods. We will use county-wide average as a control for our analysis. 
+
 
 ## Conclusion
 
@@ -84,7 +85,21 @@ California’s deep housing crisis clears the way for TOD projects along key cor
 https://github.com/nlmatteson/UP206A--Final_Project/blob/aa3cba5e3833c633717a1c0040c6ef30dcb9fca5/Midterm/Nicole's%20Portion/RentBurden_pt2.ipynb 
 
 
-
-
 **Chaithra’s:**
+
+Caveat: chaithra had issues with pushing the notebooks. Hence they have been downloaded from jupyter and manually uploaded to github. There might be some inconsistencies due to this.
+
+1. This is notebook where she combines the two dataframes for 2019 and 2011 ethnicity data into a single frame, and then creates percentage change for the ethnicities in 2019 over 2011. The initial files used are filed cleaned in an earlier weekly assignment.
+
+https://github.com/nlmatteson/UP206A--Final_Project/blob/main/Group-Assignments/ethnicity_singledataframe.ipynb
+
+2. This notebook continues the work in the earlier one and plots histograms for the ethnicity change over years. It also creates a dataframe with average change in alameda county, by computing a mean census tract. 
+
+https://github.com/nlmatteson/UP206A--Final_Project/blob/main/Group-Assignments/Plotting%20Ethnicity%20Alameda%202011%20to%202019-2.ipynb
+
+3. This final notebook computes average tract for 2019 and 2011. This calcuates the control for the final analysis - county-wide average for both years to help with the analysis. 
+https://github.com/nlmatteson/UP206A--Final_Project/blob/main/Group-Assignments/Averageethnicity-2.ipynb
+
+
+
  
