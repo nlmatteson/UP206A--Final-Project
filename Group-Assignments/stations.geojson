@@ -1,0 +1,16 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Station": "ASHBY", "City": "Berkeley", "Code": "BKY", "TOD": "Yes", "County": "ALA", "Marker": "D" }, "geometry": { "type": "Point", "coordinates": [ -122.270118961255974, 37.85320737912847 ] } },
+{ "type": "Feature", "properties": { "Station": "MACARTHUR", "City": "Oakland", "Code": "OAK", "TOD": "Yes", "County": "ALA", "Marker": "D" }, "geometry": { "type": "Point", "coordinates": [ -122.267120442329755, 37.828705048600348 ] } },
+{ "type": "Feature", "properties": { "Station": "HAYWARD", "City": "Hayward", "Code": "HAY", "TOD": "Yes", "County": "ALA", "Marker": "D" }, "geometry": { "type": "Point", "coordinates": [ -122.087204122579521, 37.67012395770405 ] } },
+{ "type": "Feature", "properties": { "Station": "SOUTH HAYWARD", "City": "Hayward", "Code": "HAY", "TOD": "Yes", "County": "ALA", "Marker": "D" }, "geometry": { "type": "Point", "coordinates": [ -122.057037122388707, 37.634483081717455 ] } },
+{ "type": "Feature", "properties": { "Station": "FRUITVALE", "City": "Oakland", "Code": "OAK", "TOD": "Yes", "County": "ALA", "Marker": "D" }, "geometry": { "type": "Point", "coordinates": [ -122.224197060575605, 37.774559445718204 ] } },
+{ "type": "Feature", "properties": { "Station": "NORTH BERKELEY", "City": "Berkeley", "Code": "BKY", "TOD": "No", "County": "ALA", "Marker": "o" }, "geometry": { "type": "Point", "coordinates": [ -122.283347881811636, 37.874061195271594 ] } },
+{ "type": "Feature", "properties": { "Station": "19TH STREET/OAKLAND", "City": "Oakland", "Code": "OAK", "TOD": "No", "County": "ALA", "Marker": "o" }, "geometry": { "type": "Point", "coordinates": [ -122.268386554840674, 37.808075415558932 ] } },
+{ "type": "Feature", "properties": { "Station": "BAY FAIR", "City": "San Leandro", "Code": "SAN", "TOD": "No", "County": "ALA", "Marker": "o" }, "geometry": { "type": "Point", "coordinates": [ -122.127059860944655, 37.69756643943262 ] } },
+{ "type": "Feature", "properties": { "Station": "UNION CITY", "City": "Union City", "Code": "UNC", "TOD": "No", "County": "ALA", "Marker": "o" }, "geometry": { "type": "Point", "coordinates": [ -122.017151030848396, 37.590865110645154 ] } },
+{ "type": "Feature", "properties": { "Station": "LAKE MERRITT", "City": "Oakland", "Code": "OAK", "TOD": "No", "County": "ALA", "Marker": "o" }, "geometry": { "type": "Point", "coordinates": [ -122.265540863598815, 37.797679219020843 ] } }
+]
+}

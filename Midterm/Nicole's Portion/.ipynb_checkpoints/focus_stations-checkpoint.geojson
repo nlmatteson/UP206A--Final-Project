@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "STATION": "ASHBY", "OBJECTID": 215, "LOCATION": " ", "CODE": " ", "ADDRESS": " ", "ZIP": "0", "COMM_NETWO": "BART", "STATION_TY": 1, "DIST": 4, "CO": "ALA" }, "geometry": { "type": "Point", "coordinates": [ -122.270118961255974, 37.85320737912847 ] } },
+{ "type": "Feature", "properties": { "STATION": "MACARTHUR", "OBJECTID": 217, "LOCATION": " ", "CODE": " ", "ADDRESS": " ", "ZIP": "0", "COMM_NETWO": "BART", "STATION_TY": 1, "DIST": 4, "CO": "ALA" }, "geometry": { "type": "Point", "coordinates": [ -122.267120442329755, 37.828705048600348 ] } },
+{ "type": "Feature", "properties": { "STATION": "HAYWARD", "OBJECTID": 227, "LOCATION": " ", "CODE": " ", "ADDRESS": " ", "ZIP": "0", "COMM_NETWO": "BART", "STATION_TY": 1, "DIST": 4, "CO": "ALA" }, "geometry": { "type": "Point", "coordinates": [ -122.087204122579521, 37.67012395770405 ] } },
+{ "type": "Feature", "properties": { "STATION": "SOUTH HAYWARD", "OBJECTID": 228, "LOCATION": " ", "CODE": " ", "ADDRESS": " ", "ZIP": "0", "COMM_NETWO": "BART", "STATION_TY": 1, "DIST": 4, "CO": "ALA" }, "geometry": { "type": "Point", "coordinates": [ -122.057037122388707, 37.634483081717455 ] } },
+{ "type": "Feature", "properties": { "STATION": "FRUITVALE", "OBJECTID": 222, "LOCATION": " ", "CODE": " ", "ADDRESS": " ", "ZIP": "0", "COMM_NETWO": "BART", "STATION_TY": 1, "DIST": 4, "CO": "ALA" }, "geometry": { "type": "Point", "coordinates": [ -122.224197060575605, 37.774559445718204 ] } }
+]
+}
